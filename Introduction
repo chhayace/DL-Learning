@@ -1,0 +1,26 @@
+What is AI?
+AI is a branch of computer science by which we can create intelligent machines which can behave like a human, think like humans, and be able to make decisions.
+
+What is ML?
+Machine learning (ML) is a type of AI that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so.
+
+What is DL?
+Deep Learning is a type of machine learning based on artificial neural networks in which multiple layers of processing are used to extract higher level features from data.
+
+Limitation of ML or why do we need DL over ML?
+ML is not useful while working with high dimensionality of  data.
+ML can not solve crucial AI problems like NLP, image recognition etc..
+Feature extractions (ML can not automatically generate features)
+
+
+Solution of ML limitations is Deep learning.
+Deep learning models are capable of focusing on the right features by themselves, requiring little guidance from programmers.
+These models also partially solve the dimensionality problem.
+Deep learning is implemented through Neural Networks.
+
+
+
+*********************************************************
+
+
+
